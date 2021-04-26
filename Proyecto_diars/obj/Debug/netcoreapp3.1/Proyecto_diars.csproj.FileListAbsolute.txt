@@ -160,3 +160,12 @@ E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\obj\Deb
 E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.dll
 E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.pdb
 E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\obj\Debug\netcoreapp3.1\Proyecto_diars.genruntimeconfig.cache
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\kellyn\Ciclo 2021-1\DIARS_2021\Proyecto\Proyecto_diars\Proyecto_diars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
